@@ -1,5 +1,5 @@
 
-const symbols = ["💎", "🔱", "⚡", "👑", "🔥", "💰", "🟣", "🔷", "🔺", "🟢", "🔴", "🔶"];
+const symbols = ["💎", "🔱", "⚡", "👑", "🔥", "💰", "🍏", "🍋", "🍒", "🍎", "🥭", "🥦"];
 const slotGrid = document.getElementById("slotGrid");
 const balanceDisplay = document.getElementById("balance");
 const winDisplay = document.getElementById("winAmount");
